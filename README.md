@@ -1,7 +1,5 @@
 ### Hey👋
 
--student Téc. Informática 2/3
--technologist Estudando atualmente HTML, CSS, JavaScript e React
 
 
 
